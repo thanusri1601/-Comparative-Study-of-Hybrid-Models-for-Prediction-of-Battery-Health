@@ -12,9 +12,7 @@ This repository contains the code and analysis for developing hybrid AI models t
 - [Modeling Techniques](#modeling-techniques)
 - [Results](#results)
 - [Requirements](#requirements)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Project Overview
 Battery health monitoring is crucial for ensuring the safety and efficiency of battery-powered systems. This project utilizes hybrid AI models to accurately predict the Remaining Useful Life (RUL) and State of Charge (SOC) of batteries, which are essential parameters for effective battery management.
