@@ -1,4 +1,4 @@
-# Hybrid AI Models for Battery Health Monitoring
+# Comparative Study of Hybrid Models for Prediction of Battery Health
 
 This repository contains the code and analysis for developing hybrid AI models to monitor battery health. It focuses on predicting two crucial aspects:
 - [Remaining Useful Life (RUL)](https://github.com/thanusri1601/-Hybrid-AI-Models-For-Battery-Health-Monitoring/blob/main/Battery_RUL.ipynb)
